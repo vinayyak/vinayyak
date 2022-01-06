@@ -2,7 +2,7 @@
 - 👀 I’m a Software Developer/Computer Science Engineer undergoing training.
 -  𓅓 My first programming language is Java and I've learnt Python & C too.
 - 🌱 I’m currently learning Ethereum Blockchain Development using Solidity Programming Language.
-- 💞️ As of now I am working on Ethereum Blockchain Projects and am interested in learning ReactJs & Web3.js
+- 💞️ As of now I am working on Ethereum Blockchain Projects and am interested in learning ReactJs & Web3.js in the near future.
 - 📫 How to reach me ...
 
 <!---
