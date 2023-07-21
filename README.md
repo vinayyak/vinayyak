@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Vinayyak Vajpeyi
 - 👀 I’m a Software Developer
--  𓅓 I have experience in working with Java & Python applications.
-- 🌱 Currently working on Ethereum Layer 2 Blockchain Development.
-- ♚ Hands-on experience working with Java Spring Boot and Python Deep Learning.
 - 📫 You can reach me at my email - vinayyakvajpeyi@gmail.com
 
 <!---
