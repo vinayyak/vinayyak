@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Vinayyak Vajpeyi
-- 👀 I’m a Software Developer
+- 👋 Hi, I’m Vinayyak Vajpeyi, a Software Development Engineer
 - 📫 You can reach me at my email - vinayyakvajpeyi@gmail.com
 
 <!---
