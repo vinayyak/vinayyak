@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-    <b>I'm Vinayyak, a Software Development Engineer with a passion for Problem-Solving and experience in Object-Oriented Programming, Blockchain Development, AI & Machine Learning.</b>
+    <b>I'm Vinayyak, a Software Development Engineer with a passion for Problem-Solving and experience in Object-Oriented Programming, Blockchain Development, Automation using Python, AI & Machine Learning.</b>
 </p>
 
 <p align="center">
