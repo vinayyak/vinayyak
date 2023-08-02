@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/Cosmos%20SDK-66595C?style=for-the-badge&logo=Atom&logoColor=white">
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white">
 </p>
 <br />
 
