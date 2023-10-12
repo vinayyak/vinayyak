@@ -1,5 +1,5 @@
 <h2 align="center">
-    Hi, Human 🛸
+    Sup Chooms 🛸
 </h2>
 
 <p align="center">
