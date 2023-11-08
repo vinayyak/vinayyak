@@ -17,13 +17,13 @@
 </picture>Tech Stack:</h1>
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black">
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
   <img src="https://img.shields.io/badge/Cosmos%20SDK-66595C?style=for-the-badge&logo=Atom&logoColor=white">
-  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 </p>
@@ -58,7 +58,7 @@
     <ul>
         <li>🎓 Bachelors of Technology in Computer Science Engineering </li>
         <li>🎯 Contribute and create open source projects</li>
-        <li>📚 I'm studying Solidity | Blockchain Development | Artificial Intelligence </li>
+        <li>📚 I'm studying Blockchain Development | Rust Programming| Artificial Intelligence </li>
     </ul>
 </details>
 
