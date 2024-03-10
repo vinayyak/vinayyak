@@ -1,5 +1,5 @@
 <h2 align="center">
-    GM 🛸
+    🛸
 </h2>
 
 <p align="center">
