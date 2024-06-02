@@ -35,10 +35,10 @@
 <p align="center">
     <i>You can find me or contact me through these networks:</i>
     <br/><br/>
-    <a href="https://www.linkedin.com/in/vinayyak" target="_blank">
+    <a href="" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" />
     </a>
-     <a href="https://leetcode.com/vinayyak/" target="_blank">
+     <a href="" target="_blank">
         <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge" />
     </a>
 </p>
