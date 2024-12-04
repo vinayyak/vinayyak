@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-    <b>I'm Vinayyak, a Software Engineer with a passion for Building Scalable Systems with experience in Blockchain Development, AI & Machine Learning.</b>
+    <b>I'm Vinayyak, a Software Engineer with a passion for Building Scalable Systems with experience in Blockchain Development and Artificial Intelligence.</b>
 </p>
 
 <p align="center">
