@@ -33,14 +33,6 @@
 <br />
 
 <p align="center">
-    <i>You can find me or contact me through these networks:</i>
-    <br/><br/>
-    <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" />
-    </a>
-</p>
-
-<p align="center">
 <p/>
 
 <p align="center">
